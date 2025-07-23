@@ -7,7 +7,7 @@ Jestem testerem aplikacji webowych oraz mobilnych z doświadczeniem w testowaniu
 * 📱 Testowanie aplikacji webowych i mobilnych w środowiskach rzeczywistych i emulowanych (ADB, `simctl`)
 * 🧪 Projektowanie i wykonywanie przypadków testowych
 * 🐛 Zgłaszanie, rejestrowanie i weryfikacja błędów (JIRA, TestRail, Xray)
-* 🔄 Testy Regresji, smoke, akceptacyjne i eksploracyjne
+* 🔄 Testy regresji, smoke, akceptacyjne i eksploracyjne
 * 🤖 Automatyzacja testów z wykorzystaniem:
 
   * `TestCafe`
