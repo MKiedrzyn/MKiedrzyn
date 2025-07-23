@@ -30,8 +30,8 @@ Jestem testerem aplikacji webowych oraz mobilnych z doświadczeniem w testowaniu
 
 Na moim GitHubie znajdziesz repozytoria, które:
 
-* zawierają moją własną aplikację mobilną na Androida — [Cat Clicker]((https://github.com/MKiedrzyn/CatClicker)) — wykorzystywaną jako obiekt testów.
-* pokazują znajomość HTML, CSS, JS - przerabiałem kiedyś kurs tworzenia stron www.
+* zawierają moją własną aplikację mobilną na Androida — [Cat Clicker](https://github.com/MKiedrzyn/CatClicker) — wykorzystywaną jako obiekt testów.
+* pokazują znajomość HTML, CSS, JS - przerabiałem kiedyś kurs tworzenia stron www
 
 ## 🎯 Cel
 
