@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Cześć! Jestem Michał
 
-<!--
-**MKiedrzyn/MKiedrzyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem testerem aplikacji webowych oraz mobilnych z doświadczeniem w testowaniu oprogramowania na platformy **Android i iOS**. Na co dzień zajmuję się zarówno testami manualnymi, jak i automatyzacją.
 
-Here are some ideas to get you started:
+## 💼 Czym się zajmuję:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📱 Testowanie aplikacji webowych i mobilnych w środowiskach rzeczywistych i emulowanych (ADB, `simctl`)
+* 🧪 Projektowanie i wykonywanie przypadków testowych
+* 🐛 Zgłaszanie, rejestrowanie i weryfikacja błędów (JIRA, TestRail, Xray)
+* 🔄 Testy Regresji, smoke, akceptacyjne i eksploracyjne
+* 🤖 Automatyzacja testów z wykorzystaniem:
+
+  * `TestCafe`
+  * `Playwright`
+  * `Cypress`
+  * `Postman`
+  * `Newman`
+* ⚙️ Praca z  systemami kontroli wersji (Git, GitHub)
+
+## 🧠 Technologie i narzędzia:
+
+* Android Studio / Xcode
+* ADB / simctl
+* TestCafe / Playwright/Cypress
+* Git / GitHub
+* Postman / Charles Proxy
+* JIRA / TestRail / Confluence
+
+## 🛠️ Przykładowe projekty
+
+Na moim GitHubie znajdziesz repozytoria, które:
+
+* zawierają moją własną aplikację mobilną na Androida — [Cat Clicker](link-do-repozytorium) — wykorzystywaną jako obiekt testów.
+* pokazują znajomość HTML, CSS, JS - przerabiałem kiedyś kurs tworzenia stron www.
+
+## 🎯 Cel
+
+Stale rozwijam swoje umiejętności jako **Mobile QA Engineer**. Interesuję się architekturą testów automatycznych, optymalizacją procesów QA i integracją testów w pipeline’ach CI/CD. Chcę dostarczać wartość poprzez skuteczne testowanie i dbałość o jakość użytkową aplikacji.
+
+---
+
+📫 Chcesz się skontaktować? Odezwij się na \[michal.kiedrzyn@gmail.com lub [LinkedIn](https://www.linkedin.com/in/michal-kiedrzyn/)].
