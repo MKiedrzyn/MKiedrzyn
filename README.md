@@ -20,8 +20,8 @@ Jestem testerem aplikacji webowych oraz mobilnych z doświadczeniem w testowaniu
 ## 🧠 Technologie i narzędzia:
 
 * Android Studio / Xcode
-* ADB / simctl
-* TestCafe / Playwright/Cypress
+* ADB / simctl / scrcpy
+* TestCafe / Playwright / Cypress
 * Git / GitHub
 * Postman / Charles Proxy
 * JIRA / TestRail / Confluence
