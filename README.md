@@ -4,7 +4,7 @@ Jestem testerem aplikacji webowych oraz mobilnych z doświadczeniem w testowaniu
 
 ## 💼 Czym się zajmuję:
 
-* 📱 Testowanie aplikacji webowych i mobilnych w środowiskach rzeczywistych i emulowanych (ADB, `simctl`)
+* 📱 Testowanie aplikacji webowych i mobilnych w środowiskach rzeczywistych i emulowanych (adb, simctl)
 * 🧪 Projektowanie i wykonywanie przypadków testowych
 * 🐛 Zgłaszanie, rejestrowanie i weryfikacja błędów (JIRA, TestRail, Xray)
 * 🔄 Testy regresji, smoke, akceptacyjne i eksploracyjne
