@@ -1,6 +1,6 @@
 # 👋 Cześć! Jestem Michał
 
-Jestem testerem aplikacji webowych oraz mobilnych z doświadczeniem w testowaniu oprogramowania na platformy **Android i iOS**. Na co dzień zajmuję się zarówno testami manualnymi, jak i automatyzacją.
+Jestem testerem aplikacji webowych oraz mobilnych z doświadczeniem w automatyzacji oraz testach Android/iOS. Na co dzień zajmuję się zarówno testami manualnymi, jak i automatyzacją.
 
 ## 💼 Czym się zajmuję:
 
@@ -9,7 +9,6 @@ Jestem testerem aplikacji webowych oraz mobilnych z doświadczeniem w testowaniu
 * 🐛 Zgłaszanie, rejestrowanie i weryfikacja błędów (JIRA, TestRail, Xray)
 * 🔄 Testy regresji, smoke, akceptacyjne i eksploracyjne
 * 🤖 Automatyzacja testów z wykorzystaniem:
-
   * `TestCafe`
   * `Playwright`
   * `Cypress`
