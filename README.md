@@ -22,7 +22,7 @@ Jestem testerem aplikacji webowych oraz mobilnych z doświadczeniem w automatyza
 * ADB / simctl / scrcpy
 * TestCafe / Playwright / Cypress
 * Git / GitHub
-* [Postman](https://github.com/MKiedrzyn/postman-project) / Charles Proxy
+* Postman[link do mojego repo](https://github.com/MKiedrzyn/postman-project) / Charles Proxy
 * JIRA / TestRail / Confluence
 
 ## 🛠️ Przykładowe projekty
