@@ -31,13 +31,13 @@ Na moim GitHubie znajdziesz repozytoria:
 
 * [testowa kolekcja w Postman](https://github.com/MKiedrzyn/postman-project)
 * moją własną aplikację mobilną na Androida — [Cat Clicker](https://github.com/MKiedrzyn/CatClicker) — wykorzystywaną jako obiekt testów mobilnych.
-* zestaw moich autorskich skryptów `.bat` które automatyzują procesy testowania aplikacji mobilnych na urządzeniach z Androidem
 * [Testy manualne](https://github.com/MKiedrzyn/CatClicker/tree/master/tests/manual) w tym:
   * [Plan testów](https://github.com/MKiedrzyn/CatClicker/blob/master/tests/manual/test-plan.md)
   * [Przypadki testowe](https://github.com/MKiedrzyn/CatClicker/blob/master/tests/manual/test-cases.md)
   * [Checklista testowa](https://github.com/MKiedrzyn/CatClicker/blob/master/tests/manual/checklist.md)
   * [Zgłoszenie błędu](https://github.com/MKiedrzyn/CatClicker/blob/master/tests/manual/bug-reports.md)
-* projekty pokazujące znajomość HTML, CSS, JS
+* [zestaw moich autorskich skryptów](https://github.com/MKiedrzyn/adb-scripts) `.bat` które automatyzują procesy testowania aplikacji mobilnych na urządzeniach z Androidem
+*  projekty pokazujące znajomość HTML, CSS, JS
 
 ## 🎯 Cel
 
