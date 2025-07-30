@@ -30,7 +30,6 @@ Jestem testerem aplikacji webowych oraz mobilnych z doświadczeniem w automatyza
 Na moim GitHubie znajdziesz repozytoria:
 
 * [testowa kolekcja w Postman](https://github.com/MKiedrzyn/postman-project)
-* projekty pokazujące znajomość HTML, CSS, JS
 * moją własną aplikację mobilną na Androida — [Cat Clicker](https://github.com/MKiedrzyn/CatClicker) — wykorzystywaną jako obiekt testów mobilnych.
 * zestaw moich autorskich skryptów `.bat` które automatyzują procesy testowania aplikacji mobilnych na urządzeniach z Androidem
 * [Testy manualne](https://github.com/MKiedrzyn/CatClicker/tree/master/tests/manual) w tym:
@@ -38,7 +37,8 @@ Na moim GitHubie znajdziesz repozytoria:
   * [Przypadki testowe](https://github.com/MKiedrzyn/CatClicker/blob/master/tests/manual/test-cases.md)
   * [Checklista testowa](https://github.com/MKiedrzyn/CatClicker/blob/master/tests/manual/checklist.md)
   * [Zgłoszenie błędu](https://github.com/MKiedrzyn/CatClicker/blob/master/tests/manual/bug-reports.md)
-  
+* projekty pokazujące znajomość HTML, CSS, JS
+
 ## 🎯 Cel
 
 Stale rozwijam swoje umiejętności jako **Tester automatyzujący**. Interesuję się architekturą testów automatycznych, optymalizacją procesów QA i integracją testów w pipeline’ach CI/CD. Chcę dostarczać wartość poprzez skuteczne testowanie i dbałość o jakość użytkową aplikacji.
