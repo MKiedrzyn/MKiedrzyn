@@ -37,6 +37,7 @@ Na moim GitHubie znajdziesz repozytoria:
   * [Checklista testowa](https://github.com/MKiedrzyn/CatClicker/blob/master/tests/manual/checklist.md)
   * [Zgłoszenie błędu](https://github.com/MKiedrzyn/CatClicker/blob/master/tests/manual/bug-reports.md)
 * [zestaw moich autorskich skryptów](https://github.com/MKiedrzyn/adb-scripts) `.bat` które automatyzują procesy testowania aplikacji mobilnych na urządzeniach z Androidem
+* [Wtyczkę](https://github.com/MKiedrzyn/Cookie-SessionStorage-Adder) do chrome, którą stworzyłem dla swojej firmy i cieszy się popularnościa wśród ok 20 członków mojego działu 💪 
 *  projekty pokazujące znajomość HTML, CSS, JS
 
 ## 🎯 Cel
